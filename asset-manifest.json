@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/JohnnyRacer/react-ghpagesdeploy/static/css/main.073c9b0a.css",
-    "main.js": "/JohnnyRacer/react-ghpagesdeploy/static/js/main.76670e91.js",
+    "main.css": "/JohnnyRacer/react-ghpagesdeploy/static/css/main.e6c13ad2.css",
+    "main.js": "/JohnnyRacer/react-ghpagesdeploy/static/js/main.4bd87548.js",
     "static/js/787.cd4c4871.chunk.js": "/JohnnyRacer/react-ghpagesdeploy/static/js/787.cd4c4871.chunk.js",
-    "static/media/logo.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/PaymentWeb.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/PaymentWeb.167d8eadf32f5f91be6916f93bcf3614.svg",
+    "static/media/CardBlue.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/CardBlue.8fe8763ee36ea2a2b2443d0a383026e3.svg",
+    "static/media/CardPurple.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/CardPurple.0f073a09166045730b0dd66b0fecc50c.svg",
+    "static/media/CardGreen.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/CardGreen.2b4df96030da118f1d7266e733d4e536.svg",
+    "static/media/CardBG.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/CardBG.c2c90ac896e3dd4c0777cffe7cfdb672.svg",
+    "static/media/CardRed.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/CardRed.89561863c72969c51ba46bc36ba04754.svg",
+    "static/media/RHand.svg": "/JohnnyRacer/react-ghpagesdeploy/static/media/RHand.1cd3586e04168aed5591ca44c0dbd4f6.svg",
     "index.html": "/JohnnyRacer/react-ghpagesdeploy/index.html",
-    "main.073c9b0a.css.map": "/JohnnyRacer/react-ghpagesdeploy/static/css/main.073c9b0a.css.map",
-    "main.76670e91.js.map": "/JohnnyRacer/react-ghpagesdeploy/static/js/main.76670e91.js.map",
+    "main.e6c13ad2.css.map": "/JohnnyRacer/react-ghpagesdeploy/static/css/main.e6c13ad2.css.map",
+    "main.4bd87548.js.map": "/JohnnyRacer/react-ghpagesdeploy/static/js/main.4bd87548.js.map",
     "787.cd4c4871.chunk.js.map": "/JohnnyRacer/react-ghpagesdeploy/static/js/787.cd4c4871.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.76670e91.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4bd87548.js"
   ]
 }
